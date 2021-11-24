@@ -1,0 +1,32 @@
+a {
+    color: aqua;
+    font-size: 30px;
+}
+
+ul {
+    color:#AC33FF;
+    font-size: 22px;
+}
+
+#petrov{
+    color:coral;
+    font-size: 5px;  
+}
+
+.human{
+    color:coral;
+    font-size: 50px;    
+}
+
+.animal{
+    color:rgb(122, 44, 15);
+    font-size: 40px;    
+}
+
+img:hover{
+    border: 10px solid coral;
+}
+
+body{
+    background-image: url(images/patrik.jpg);
+}
