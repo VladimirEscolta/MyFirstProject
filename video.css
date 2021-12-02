@@ -1,0 +1,12 @@
+.text {
+    width: 500px;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    }
+
+.video {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    }
