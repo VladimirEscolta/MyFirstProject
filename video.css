@@ -1,12 +1,35 @@
 .text {
     width: 500px;
     padding: 10px;
-    margin: 0 auto;
+    margin: 10px 0 30px 30%;
     text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    background: rgb(175, 218, 243);
     }
+.first column {
+    width:500px;
+    text-align: center;
+}
+
+.second column {
+    width:300px;
+    text-align: center;
+}
 
 .video {
     margin: 0 auto;
     display: block;
     text-align: center;
     }
+
+body {
+        background: url(Images/back.jpg) no-repeat;
+        background-size: 100%;
+    }
+
+#column1 {
+    width: 500px;
+    text-align: center;
+    border: 2px solid rgb(129, 5, 5);
+}
